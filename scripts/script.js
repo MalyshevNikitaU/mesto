@@ -10,7 +10,7 @@ const submit = popup.querySelector('.popup__save')
 
 const popupToggle = function (event) {
     event.preventDefault();
-    popup.classList.toggle('popup__opened');
+    popup.classList.toggle('popup_opened');
     inputName.value = name.textContent;
     inputAbout.value = about.textContent;
 }
