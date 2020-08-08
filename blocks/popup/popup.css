@@ -6,7 +6,6 @@
 @import url(./__input/_name/popup__input_name.css);
 @import url(./__input/_about/popup__input_about.css);
 @import url(./__save/popup__save.css);
-@import url(./_opened/popup_opened.css);
 
 .popup {
     position: fixed;
